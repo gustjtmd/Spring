@@ -17,4 +17,8 @@ public class AutoAppConfig {
 //    MemberRepository memberRepository() {
 //        return new MemoryMemberRepository();
 //    }
+//    @Bean(name = "memoryMemberRepository")
+//    MemberRepository memberRepository() {
+//        return new MemoryMemberRepository();
+//    }
 }
